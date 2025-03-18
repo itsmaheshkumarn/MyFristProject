@@ -6,3 +6,4 @@ git log                   >> It will show the info about the commit file.
 git diff                  >> It will show the newly added data in Working Dir.
 git diff --staged         >> It will show the newly added data in Staging Dir.
 git rm --cached file.txt  >> It will delete the file from Local Repo and keep it in Working Dir(Untracked).
+new Git command
